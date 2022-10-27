@@ -4,4 +4,4 @@ The Purpose of this project is to collaborate with everyone in the group and wor
 Credits: <br/>
 Leader - Jack Diamond <br/>
 Scrum Master - Aakesh Sharma <br/>
-Development Team - Winchester, Nate Stacey, Jack, Aakesh <br/>
+Development Team - Winchester Tuazon, Nate Stacey, Jack Diamond, Aakesh Sharma <br/>
